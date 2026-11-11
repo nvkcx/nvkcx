@@ -1,18 +1,11 @@
-<h2 align="center"><code>nvkcx@debian:~$ whoami</code></h2>
+<h2 align="center"><code>nvkcx@localhost:~$ whoami</code></h2>
 
 <p align="center">
-  Kevin Cuevas · Full-stack developer · Debian sid + KDE Plasma · Nord everywhere
+  Kevin Cuevas · Full-stack developer
 </p>
 
 ```console
-nvkcx@debian:~$ fastfetch --short
-OS       Debian GNU/Linux forky/sid
-DE       KDE Plasma 6 · KWin (Wayland)
-Shell    zsh · kitty · tmux
-Editor   Neovim (LazyVim)
-Theme    Nord, everywhere
-
-nvkcx@debian:~$ cat about.txt
+nvkcx@localhost:~$ cat about.txt
 Full-stack developer from Mexico, B.Eng. in Informatics Engineering
 (Instituto Tecnológico del Istmo, TecNM).
 
@@ -22,10 +15,7 @@ keep my whole setup in git so a fresh machine is one command away.
 
 ### `$ ls ~/projects`
 
-- **[dotfiles](https://github.com/nvkcx/dotfiles)** · my Debian + KDE Plasma 6 setup (zsh, kitty, tmux, Neovim) with a one-line bootstrap and interactive installers.
-- **[n-groups](https://github.com/nvkcx/dotfiles/tree/main/plasma/kwin-scripts/n-groups)** · a KWin script plus Alt+Tab switcher: link windows by hand and they share one Alt+Tab entry, raising, minimizing and restoring together.
-- **dev-boot** · themed boot (GRUB Nord + Plymouth) installed safely through drop-ins, with a `--doctor` mode.
-- **Self-hosted Web Push** · my own OneSignal alternative built with NestJS + Fastify + SQLite, plus an admin panel.
+- **[dotfiles](https://github.com/nvkcx/dotfiles)** · my Linux desktop setup (KDE Plasma 6, zsh, kitty, tmux, Neovim) with a one-line bootstrap and interactive installers.
 
 ### `$ cat ~/.stack`
 
@@ -58,5 +48,3 @@ keep my whole setup in git so a fresh machine is one command away.
 ### `$ cat ~/.contact`
 
 - LinkedIn · [linkedin.com/in/dev-kevin-cuevas](https://linkedin.com/in/dev-kevin-cuevas)
-
-<sub><i>Hecho en México 🇲🇽 · también hablo español.</i></sub>
