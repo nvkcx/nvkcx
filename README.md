@@ -1,50 +1,62 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h2 align="center"><code>nvkcx@debian:~$ whoami</code></h2>
 
-<h1 align="center">Hello 👋, I'm Kevin Cuevas</h1>
+<p align="center">
+  Kevin Cuevas · Full-stack developer · Debian sid + KDE Plasma · Nord everywhere
+</p>
 
-# 🪄 About Me:
-Hello there! I'm Kevin Eduardo Cuevas Orozco ;)
+```console
+nvkcx@debian:~$ fastfetch --short
+OS       Debian GNU/Linux forky/sid
+DE       KDE Plasma 6 · KWin (Wayland)
+Shell    zsh · kitty · tmux
+Editor   Neovim (LazyVim)
+Theme    Nord, everywhere
 
-I'm currently pursuing a degree in **Computer Science and Engineering** at the Instituto Tecnológico Campus ISTMO. I am passionate about programming and eager to learn and gain experience in front-end development, back-end development, algorithms, and problem-solving.
+nvkcx@debian:~$ cat about.txt
+Full-stack developer from Mexico, B.Eng. in Informatics Engineering
+(Instituto Tecnológico del Istmo, TecNM).
 
-I always strive to overcome every challenge, whether simple or complex, with a strong desire to learn and improve every day.
+I like building my own tools instead of just installing them, and I
+keep my whole setup in git so a fresh machine is one command away.
+```
 
+### `$ ls ~/projects`
+
+- **[dotfiles](https://github.com/nvkcx/dotfiles)** · my Debian + KDE Plasma 6 setup (zsh, kitty, tmux, Neovim) with a one-line bootstrap and interactive installers.
+- **[n-groups](https://github.com/nvkcx/dotfiles/tree/main/plasma/kwin-scripts/n-groups)** · a KWin script plus Alt+Tab switcher: link windows by hand and they share one Alt+Tab entry, raising, minimizing and restoring together.
+- **dev-boot** · themed boot (GRUB Nord + Plymouth) installed safely through drop-ins, with a `--doctor` mode.
+- **Self-hosted Web Push** · my own OneSignal alternative built with NestJS + Fastify + SQLite, plus an admin panel.
+
+### `$ cat ~/.stack`
+
+![Linux](https://img.shields.io/badge/Linux-2E3440?style=flat-square&logo=linux&logoColor=88C0D0)
+![Debian](https://img.shields.io/badge/Debian-2E3440?style=flat-square&logo=debian&logoColor=88C0D0)
+![Bash](https://img.shields.io/badge/Bash-2E3440?style=flat-square&logo=gnubash&logoColor=88C0D0)
+![Neovim](https://img.shields.io/badge/Neovim-2E3440?style=flat-square&logo=neovim&logoColor=88C0D0)
+![tmux](https://img.shields.io/badge/tmux-2E3440?style=flat-square&logo=tmux&logoColor=88C0D0)
+![Git](https://img.shields.io/badge/Git-2E3440?style=flat-square&logo=git&logoColor=88C0D0)
 <br/>
-
-# 🔮 Sobre Mi:
-Me llamo Kevin Eduardo Cuevas Orozco ;)
- 
-Actualmente estudio la carrera **Ingeniería en Informatica** en el Instituto Tecnológico Campus ISTMO, soy un chico al que le apasiona la programación, con muchas ganas de aprender y adquirir experiencia en los campos de front-end, back-end, algoritmos y resolución de problemas.
-
-Siempre me esfuerzo para superar cada desafío ya sean simples o complejos, teniendo un fuerte deseo para aprender y mejorar cada día.
-
+![TypeScript](https://img.shields.io/badge/TypeScript-2E3440?style=flat-square&logo=typescript&logoColor=88C0D0)
+![JavaScript](https://img.shields.io/badge/JavaScript-2E3440?style=flat-square&logo=javascript&logoColor=88C0D0)
+![Node.js](https://img.shields.io/badge/Node.js-2E3440?style=flat-square&logo=nodedotjs&logoColor=88C0D0)
+![NestJS](https://img.shields.io/badge/NestJS-2E3440?style=flat-square&logo=nestjs&logoColor=88C0D0)
+![Java](https://img.shields.io/badge/Java-2E3440?style=flat-square&logo=openjdk&logoColor=88C0D0)
+![Python](https://img.shields.io/badge/Python-2E3440?style=flat-square&logo=python&logoColor=88C0D0)
 <br/>
+![HTML5](https://img.shields.io/badge/HTML5-2E3440?style=flat-square&logo=html5&logoColor=88C0D0)
+![CSS3](https://img.shields.io/badge/CSS3-2E3440?style=flat-square&logo=css&logoColor=88C0D0)
+![MySQL](https://img.shields.io/badge/MySQL-2E3440?style=flat-square&logo=mysql&logoColor=88C0D0)
+![SQLite](https://img.shields.io/badge/SQLite-2E3440?style=flat-square&logo=sqlite&logoColor=88C0D0)
+![AWS](https://img.shields.io/badge/AWS-2E3440?style=flat-square)
 
-## 🌐 Redes / Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-kevin-cuevas) 
+### `$ git log --stat`
 
-<br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=nvkcx&theme=nord&hide_border=true" alt="GitHub streak" />
+</p>
 
-# 💻 Tecnologias / Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+### `$ cat ~/.contact`
 
-<br/>
+- LinkedIn · [linkedin.com/in/dev-kevin-cuevas](https://linkedin.com/in/dev-kevin-cuevas)
 
-# 📊 GitHub Stats:
-
-<table align="center">
-    <tr>
-        <th><p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Kevin-Cuevas&show_icons=true&locale=en&theme=react" alt="Kevin-Cuevas" /></p></th>
-        <th><p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kevin-Cuevas&theme=react" alt="Kevin-Cuevas" /></p></th>
-    </tr>
-</table>
-
-<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Cuevas&layout=compact&theme=react" alt=Kevin-Cuevas /></div>
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Kevin-Cuevas&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<sub><i>Hecho en México 🇲🇽 · también hablo español.</i></sub>
