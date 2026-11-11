@@ -1,7 +1,7 @@
 <h2 align="center"><code>nvkcx@localhost:~$ whoami</code></h2>
 
 <p align="center">
-  Kevin Cuevas · Full-stack developer
+  Full-stack developer
 </p>
 
 ```console
@@ -37,7 +37,7 @@ keep my whole setup in git so a fresh machine is one command away.
 ![CSS3](https://img.shields.io/badge/CSS3-2E3440?style=flat-square&logo=css&logoColor=88C0D0)
 ![MySQL](https://img.shields.io/badge/MySQL-2E3440?style=flat-square&logo=mysql&logoColor=88C0D0)
 ![SQLite](https://img.shields.io/badge/SQLite-2E3440?style=flat-square&logo=sqlite&logoColor=88C0D0)
-![AWS](https://img.shields.io/badge/AWS-2E3440?style=flat-square)
+![AWS](assets/aws.svg)
 
 ### `$ git log --stat`
 
